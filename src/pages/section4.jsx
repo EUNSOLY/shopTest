@@ -16,8 +16,7 @@ function Section4() {
       </div>
       <div className="">
         <p>
-          {" "}
-          <img src="/img/sec4_icon3.png" alt="아이콘3" />
+          <img src="./img/sec4_icon3.png" alt="아이콘3" />
         </p>
         <p>아이콘</p>
       </div>
